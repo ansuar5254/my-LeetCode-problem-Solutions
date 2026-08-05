@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
