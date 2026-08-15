@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Matrix
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
