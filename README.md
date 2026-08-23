@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
