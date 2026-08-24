@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2652-sum-multiples) |
