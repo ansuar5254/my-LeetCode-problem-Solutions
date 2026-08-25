@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 <!---LeetCode Topics End-->
