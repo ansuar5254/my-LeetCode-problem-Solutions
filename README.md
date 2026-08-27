@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -36,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Matrix
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Flow Network
 |  |
 | ------- |
