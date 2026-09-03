@@ -59,5 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0131-palindrome-partitioning) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/ansuar5254/my-LeetCode-problem-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
